@@ -1,0 +1,17 @@
+# Secret keys — never commit
+.env
+
+# Job data — personal, changes every run
+../jobs.json
+seek_debug.html
+
+# Tailored resumes — generated files, not source code
+output/
+
+# Python virtual environment — too large, not needed
+../job-tool/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
