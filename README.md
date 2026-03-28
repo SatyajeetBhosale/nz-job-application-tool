@@ -1,4 +1,4 @@
-# 🇳🇿 NZ Job Application Tool
+# NZ Job Application Tool
 
 An automated job search and resume tailoring tool for New Zealand jobs on Seek.nz. Built with Python, Playwright, Claude AI, and Streamlit.
 
