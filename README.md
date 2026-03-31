@@ -153,4 +153,4 @@ This tool is for **personal use only**. Automated scraping may conflict with See
 ## Author
 
 **Satyajeet Bhosale** — Senior Agile Coach
-[LinkedIn](https://linkedin.com/in/satyajeetbhosale) | bsatyajeet30@gmail.com
+| bsatyajeet30@gmail.com
